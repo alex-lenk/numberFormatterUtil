@@ -1,0 +1,10 @@
+{
+  "name": "number-formatter-util",
+  "version": "1.0.0",
+  "main": "numberFormatterUtil.js",
+  "author": "alex-lenk",
+  "license": "MIT",
+  "files": [
+    "numberFormatterUtil.js"
+  ]
+}
