@@ -1,10 +1,30 @@
 {
   "name": "number-formatter-util",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "main": "numberFormatterUtil.js",
   "author": "alex-lenk",
+  "description": "NumberFormatter - это мощная и гибкая библиотека для форматирования чисел на JavaScript.",
+  "keywords": [
+    "number-formatting",
+    "javascript",
+    "number-converter",
+    "decimal-formatting",
+    "currency-formatting",
+    "localization",
+    "number-parser",
+    "npm-package",
+    "frontend",
+    "utilities"
+  ],
   "license": "MIT",
   "files": [
     "numberFormatterUtil.js"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-lenk/numberFormatterUtil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-lenk/numberFormatterUtil/issues"
+  }
 }
