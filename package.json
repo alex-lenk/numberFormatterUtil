@@ -1,9 +1,9 @@
 {
   "name": "number-formatter-util",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "numberFormatterUtil.js",
   "author": "alex-lenk",
-  "description": "NumberFormatter - это мощная и гибкая библиотека для форматирования чисел на JavaScript.",
+  "description": "numberFormatterUtil is a powerful and flexible library for number formatting in JavaScript.",
   "keywords": [
     "number-formatting",
     "javascript",
